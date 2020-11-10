@@ -1,0 +1,16 @@
+{
+"companyName": "PS_Midterm_0408400",
+"productName": "PS_Midterm_0408400",
+"productVersion": "0.1",
+"dataUrl": "HMH_PS_Midterm_0408400_web_2.data.unityweb",
+"wasmCodeUrl": "HMH_PS_Midterm_0408400_web_2.wasm.code.unityweb",
+"wasmFrameworkUrl": "HMH_PS_Midterm_0408400_web_2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
